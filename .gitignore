@@ -24,5 +24,8 @@ rmvpe.pt
 
 /runtime
 /assets/weights/*
+/assets/pretrained/*
+/assets/pretrained_v2/*
+/assets/uvr5_weights/*
 ffmpeg.*
 ffprobe.*
